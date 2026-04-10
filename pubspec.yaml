@@ -1,0 +1,21 @@
+name: chromatic
+description: >-
+  A comprehensive color science library for Dart. Color space conversions,
+  perceptual color difference (Delta E), chromatic adaptation, and more.
+  Port of Python's colormath with modern additions.
+version: 0.1.0
+repository: https://github.com/shubham030/chromatic
+issue_tracker: https://github.com/shubham030/chromatic/issues
+topics:
+  - color
+  - color-science
+  - color-conversion
+  - delta-e
+  - accessibility
+
+environment:
+  sdk: ^3.11.4
+
+dev_dependencies:
+  lints: ^6.0.0
+  test: ^1.25.6
