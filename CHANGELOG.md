@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.1.4
+
+- Fix: 0.1.3 was published with a CHANGELOG that did not include its
+  own version entry (pana flagged it as invalid). This release has a
+  correct CHANGELOG. No other changes.
+
 ## 0.1.3
 
 - Add `.pubignore` to exclude `demo/`, `tool/`, and `.github/` from
