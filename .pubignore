@@ -1,0 +1,8 @@
+# Demo app lives in this repo but is not part of the published package.
+demo/
+
+# Maintainer-only fixture generator (Python, not useful for consumers).
+tool/
+
+# CI / Pages workflows.
+.github/

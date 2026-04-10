@@ -2,7 +2,7 @@ name: chromatic
 description: >-
   Color science for Dart: conversions between sRGB, Lab, XYZ, LCH, HSL and more.
   Delta E, chromatic adaptation, proper sRGB EOTF.
-version: 0.1.2
+version: 0.1.3
 repository: https://github.com/Enraio/chromatic
 issue_tracker: https://github.com/Enraio/chromatic/issues
 homepage: https://enraio.github.io/chromatic/

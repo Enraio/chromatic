@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.1.3
+
+- Add `.pubignore` to exclude `demo/`, `tool/`, and `.github/` from
+  the published archive (0.1.2 accidentally included the demo Flutter
+  app, bloating the download by ~50 KB). No functional changes.
+
 ## 0.1.2
 
 - Point `homepage` at the new interactive demo site:
