@@ -1,9 +1,8 @@
 name: chromatic
 description: >-
-  A comprehensive color science library for Dart. Color space conversions,
-  perceptual color difference (Delta E), chromatic adaptation, and more.
-  Port of Python's colormath with identical math.
-version: 0.1.0
+  Color science for Dart: conversions between sRGB, Lab, XYZ, LCH, HSL and more.
+  Delta E, chromatic adaptation, proper sRGB EOTF.
+version: 0.1.1
 repository: https://github.com/Enraio/chromatic
 issue_tracker: https://github.com/Enraio/chromatic/issues
 homepage: https://github.com/Enraio/chromatic

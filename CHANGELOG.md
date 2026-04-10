@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.1
+
+- Shorten package description to meet pub.dev 60–180 character guideline.
+
 ## 0.1.0
 
 Initial release. Port of Python colormath with identical math.
