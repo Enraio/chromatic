@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.1.2
+
+- Point `homepage` at the new interactive demo site:
+  https://enraio.github.io/chromatic/
+- Add `documentation` link in pubspec.
+- No code changes; ports, tests, and benchmarks are unchanged from 0.1.1.
+
 ## 0.1.1
 
 - Shorten package description to meet pub.dev 60–180 character guideline.
