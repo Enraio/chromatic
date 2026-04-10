@@ -1,6 +1,7 @@
 # chromatic
 
 [![pub package](https://img.shields.io/pub/v/chromatic.svg)](https://pub.dev/packages/chromatic)
+[![publisher](https://img.shields.io/pub/publisher/chromatic.svg)](https://pub.dev/publishers/enraio.com)
 
 A comprehensive **color science library for Dart**. Color space conversions,
 perceptual color difference (Delta E), chromatic adaptation, and more.
@@ -8,6 +9,8 @@ perceptual color difference (Delta E), chromatic adaptation, and more.
 Port of Python's [`colormath`](https://github.com/gtaylor/python-colormath)
 with identical math, validated against 690+ Python-generated test fixtures
 and the Sharma 2005 CIEDE2000 reference dataset.
+
+**🎨 Live demo:** https://enraio.github.io/chromatic/
 
 ## Features
 
